@@ -1,0 +1,18 @@
+
+
+.heading, .headf{
+    display: block;
+    text-align: center;
+}
+
+.form-group{
+    display: block;
+    margin: 0px 250px;
+}
+.form-text{
+    display: block;
+    text-align: center;
+}
+.btn2{
+    margin: 30px 0px 0px 500px;
+}
